@@ -1,0 +1,60 @@
+CrustCraft – AI Usage Log
+=========================
+
+Purpose
+-------
+This file records the ways AI assistance was used while preparing the
+CrustCraft project. Update this log to match the actual prompts, suggestions
+used, and changes made by the project author. Do not list suggestions as
+implemented unless they were actually applied and tested.
+
+AI assistance used
+------------------
+1. Understanding the hackathon problem
+   - Asked for an explanation of the CrustCraft Java hackathon problem.
+   - Used the explanation to understand the required bakery workflow,
+     billing formula, customer discounts, stock validation, order tokens,
+     and Java syllabus concepts.
+
+2. Reviewing the project files
+   - Shared the Java source and the HTML, CSS, and JavaScript frontend files
+     for review.
+   - Used AI feedback to identify the distinction between the browser-based
+     frontend and the Java console application.
+   - Used the review to prepare a project README and this AI usage log.
+
+3. GitHub and deployment guidance
+   - Asked how to publish the project to GitHub and deploy the web interface.
+   - Received guidance that the static HTML/CSS/JavaScript frontend can be
+     deployed as a website, while the Java console program runs separately.
+
+Project author's changes
+-----------------------
+Record the actual changes you make after using AI. Examples of entries:
+
+- [Date] Reviewed the suggested explanation and corrected/updated:
+  [Describe the exact change.]
+- [Date] Tested the web interface and fixed:
+  [Describe the exact bug or change.]
+- [Date] Compiled and tested CrustCraft.java using:
+  [JDK version and test results.]
+- [Date] Updated documentation:
+  [Describe the exact update.]
+
+Verification checklist
+----------------------
+[ ] Check that the README matches the final repository structure.
+[ ] Test the web interface in a browser.
+[ ] Compile the Java program with JDK 17 or later.
+[ ] Test regular and loyalty billing calculations.
+[ ] Test invalid item IDs and insufficient stock.
+[ ] Test undo, bill lookup, and sales reporting.
+[ ] Verify the final implementation against the hackathon rubric.
+[ ] Replace the example change entries above with the actual work performed.
+
+Note
+----
+AI assistance was used for explanations, review, and documentation support.
+The project author is responsible for understanding, checking, testing, and
+being able to explain all submitted code. This log should be kept accurate
+and updated as the project changes.
